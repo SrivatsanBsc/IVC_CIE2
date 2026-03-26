@@ -1,0 +1,5 @@
+print("Hello")
+Print("My name is Srivatsan")
+Print("I am from 4th sem")
+Print("Section B")
+Print("1RUA24SCS0096")
